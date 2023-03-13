@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">PharoM-BankingApp</string>
+    <string name="pharo_mobile_banking">Pharo Mobile Banking</string>
+    <string name="company_logo">company_logo</string>
+    <string name="email">Email</string>
+    <string name="phoneNumber">Phone Number</string>
+    <string name="alternateLogin1">Use Phone Number Instead</string>
+    <string name="alternateLogin2">Use Email Address Instead</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="register">REGISTER</string>
+    <string name="log_in_instead">Already have an Account ? Log in instead</string>
+    <string name="register_instead">Don\'t have an Account? Register here:</string>
 </resources>
