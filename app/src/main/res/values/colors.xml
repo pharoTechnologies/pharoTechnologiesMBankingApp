@@ -9,6 +9,8 @@
     <color name="white">#FFFFFFFF</color>
 
     <!--    custom colors-->
+    <color name="dark_blue">#00427A</color>
+    <color name="light_blue">#005FAF</color>
     <color name="midnight_blue">#1D3098</color>
     <color name="yellow">#FFF200</color>
     <color name="orange">#FF5722</color>
